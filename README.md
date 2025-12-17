@@ -14,3 +14,6 @@ Esse processo é amplamente usado em análise de dados, ciência de dados, monit
 Por exemplo, se uma loja online não oferece uma API pública, você pode criar um scraper que visita as páginas de produtos e extrai automaticamente nomes, valores e descrições.
 
 No entanto, há uma questão ética e legal importante: nem todos os sites permitem scraping. Muitos têm restrições no arquivo `robots.txt`, que define o que pode ou não ser acessado por scripts automatizados. Além disso, scraping em excesso pode sobrecarregar servidores e ser considerado uso indevido. Por isso, boas práticas incluem respeitar limites de requisição, identificar o agente de usuário (user-agent) e nunca raspar dados pessoais ou protegidos por login.
+
+- https://github.com/microsoft/markitdown
+- https://github.com/browser-use/browser-use
